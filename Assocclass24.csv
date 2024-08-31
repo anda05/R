@@ -1,0 +1,37 @@
+﻿Milk,Bread,Coffee,Beer,Diaper,T,Age,Income,Sex
+1,1,0,0,1,T100,Middle,Very High,M
+0,1,0,1,0,T200,Senior,High,M
+0,1,1,0,0,T300,Young,High,F
+1,1,0,1,0,T400,Middle,Low,F
+1,0,1,0,0,T500,Middle,High,F
+0,1,1,0,0,T600,Young,Very High,M
+1,0,1,0,0,T700,Senior,Low,F
+1,1,1,0,1,T800,Senior,Low,F
+1,1,1,0,0,T900,Young,High,M
+1,1,0,1,1,T1000,Middle,Very Hgh,M
+0,1,0,1,0,T1100,Senior,High,M
+0,1,1,0,0,T1200,Young,High,M
+1,1,0,1,0,T1300,Middle,Low,F
+1,0,1,0,0,T1400,Middle,High,F
+0,1,1,0,0,T1500,Young,Very High,M
+1,0,1,0,0,T1600,Senior,High,F
+1,1,1,1,1,T1700,Senior,High,F
+1,1,1,0,0,T1800,Young,High,M
+1,1,0,0,1,T1900,Middle,Very High,M
+0,1,0,1,0,T2000,Senior,High,M
+0,1,1,0,0,T2100,Young,High,F
+1,1,0,1,0,T2200,Middle,Low,F
+1,1,1,0,0,T2300,Middle,High,F
+0,1,1,0,0,T2400,Young,Very High,M
+1,0,1,0,0,T2500,Young,High,F
+1,1,1,1,1,T2600,Senior,Low,F
+1,1,1,0,0,T2700,Young,High,M
+1,1,0,1,1,T2800,Middle,Very High,M
+0,1,0,1,0,T2900,Senior,High,M
+0,1,1,0,0,T3000,Young,High,M
+1,1,0,1,0,T3100,Middle,High,F
+1,0,1,0,0,T3200,Middle,High,F
+0,1,1,1,0,T3300,Young,Very High,M
+1,0,1,0,0,T3400,Senior,High,F
+1,1,1,1,1,T3500,Senior,Low,F
+1,1,1,0,0,T3600,Young,High,M

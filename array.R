@@ -1,0 +1,13 @@
+a<-array(5L,dim=c(5,5))
+b<-array(as.numeric(-100),dim=c(10,1))
+is.double(b[1])
+is.numeric(a[1])
+is.double(a)
+is.matrix(b)
+is.integer(a)
+class(b)
+print(a)
+
+d<-array(c(-1,0,11,-1,0,12,-7,10,7,-1,0,9,-1,0,1),dim=c(3,5))
+print(d)
+print(Max(d))

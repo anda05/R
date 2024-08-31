@@ -1,0 +1,10 @@
+fibbo<-function(a,b,i){
+  if(i==8){
+    return()
+  }
+  print(a+b)
+  fibbo(b,a+b,i+1)
+}
+print(0)
+print(1)
+fibbo(0,1,0)

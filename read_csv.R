@@ -1,0 +1,8 @@
+asso<-read.csv("C:/Users/Ankana/Documents/DATA MINING R/Assocclass24.csv")
+print(ncol(asso))
+print(colnames(asso))
+print(nrow(asso))
+print(sum(asso$Sex=='M'))
+print(paste("no of middle aged customers who buy milk and diaper:",sum(asso$Age=='Middle' & asso$Milk==1 & asso$Diaper==1)))
+print(paste('support: ',round(sum(asso$Milk==1 & asso$Bread==1 & asso$Diaper==1)*100/nrow(asso),2)))
+print(paste('Confidence: ',round(sum(asso$Milk==1 & asso$Bread==1 & asso$Diaper==1)*100/sum(asso$Milk==1 & asso$Bread==1),2)))
