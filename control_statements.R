@@ -13,6 +13,6 @@ if(x>10)
 m<-as.numeric(readline('Enter your marks: '))
 if(m>=90){
   print('o')
-}else if(m>=89 && m<=90){
+}else if(m<=89 && m>=80){
   print('e')
 }
