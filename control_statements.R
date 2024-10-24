@@ -16,3 +16,4 @@ if(m>89){
 }else if(m>79){
   print('e')
 }
+print(ifelse(m>89),'o',(ifelse(m>79,'e','a')))
